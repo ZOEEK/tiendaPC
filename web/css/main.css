@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+nav.light-blue.lighten-1{
+	height: 130px!important; 
+	padding-top: 5px !important;}
+.slider .indicators .indicator-item.active{background-color: #29b6f6;}
+.card{min-height: 450px!important;}
+.card .card-content {min-height: 115px;}
+h4{color: #29b6f6;text-transform: uppercase; font-weight: 600;}
+hr{color: #f0f0f0; width: 70%; border: 1px solid; margin-top: 50px;}
+.page-footer{padding-top: 0px;}
+hr.celeste{color:#29b6f6; width: 3%; border: 2px solid; margin-top: 10px; margin-bottom: 50px;}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating){color:#29b6f6; font-weight: bold;}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating):hover{color:#90caf9;}
+ul:not(.browser-default){padding-top: 40px;}
+.container{min-height: 500px;}
+.container-footer{margin: 0 auto; max-width: 1280px; width: 90%;}
+.card.horizontal{transition: box-shadow 0s, -webkit-box-shadow .0s;
+    border-radius: 0px; box-shadow: none; -webkit-box-shadow:none;}
+hr.celeste.sinbaja{margin-bottom: 0px;}
+th {color:#0d47a1;}
+a.colman:hover{color:#bbdefb;}

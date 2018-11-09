@@ -1,0 +1,4 @@
+proyecto tienda de venta PC
+
+- payara 
+- oracle 11g
